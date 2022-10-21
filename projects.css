@@ -1,0 +1,19 @@
+header {
+    background-color: whitesmoke;
+    color: black;
+    height:50px;
+}
+h1 {
+    height: 30px;
+    vertical-align: middle;
+}
+links {
+    align-self: flex-end;
+}
+body {
+    background-color: black;
+    color: aliceblue;
+}
+img {
+    height:35px;
+}
