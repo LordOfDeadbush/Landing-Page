@@ -1,0 +1,15 @@
+header {
+    background-color: whitesmoke;
+    color: black;
+    height:50px;
+}
+h1 {
+    height: 30px;
+}
+links {
+    align-self: flex-end;
+}
+body {
+    background-color: black;
+    color: aliceblue;
+}
