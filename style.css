@@ -1,5 +1,5 @@
 header {
-    background-color: whitesmoke;
+    background-color: white;
     color: black;
     height:50px;
 }
@@ -11,9 +11,19 @@ links {
     align-self: flex-end;
 }
 body {
-    background-color: black;
+    background-color: rgb(7, 32, 14);
     color: aliceblue;
 }
 img {
     height:35px;
+}
+aboutme {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: antiquewhite;
+    font-size:16px ;
+}
+misc-projects {
+    height: 40px;
+    font-size:20px ;
 }
